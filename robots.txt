@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://weather-1-ee8v.onrender.com/sitemap.xml
